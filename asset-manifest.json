@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/school-web-application/static/js/main.e3f337ff.js",
+    "main.js": "/school-web-application/static/js/main.0e25802b.js",
     "static/media/academics-video1.mp4": "/school-web-application/static/media/academics-video1.5d0e436350443e9678fe.mp4",
     "static/media/academics-program1.jpg": "/school-web-application/static/media/academics-program1.3eca6241a732dc18a49f.jpg",
     "static/media/scl-branch2.jpg": "/school-web-application/static/media/scl-branch2.fce2bec5467004f2bbe9.jpg",
@@ -12,9 +12,9 @@
     "static/media/slide3.jpeg": "/school-web-application/static/media/slide3.29c984520693bc7a32b7.jpeg",
     "static/media/slide1.webp": "/school-web-application/static/media/slide1.6391f779065ca354b0f9.webp",
     "index.html": "/school-web-application/index.html",
-    "main.e3f337ff.js.map": "/school-web-application/static/js/main.e3f337ff.js.map"
+    "main.0e25802b.js.map": "/school-web-application/static/js/main.0e25802b.js.map"
   },
   "entrypoints": [
-    "static/js/main.e3f337ff.js"
+    "static/js/main.0e25802b.js"
   ]
 }
