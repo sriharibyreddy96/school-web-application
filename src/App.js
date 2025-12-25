@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "../src/pages/Home";
 import Admissions from "../src/pages/Admissions";
 import Contact from "../src/pages/Contact";
@@ -8,7 +8,7 @@ import More from "../src/pages/More";
 
 const App = () => {
   return (
-    <Router>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/admissions" element={<Admissions />} />
@@ -16,7 +16,7 @@ const App = () => {
         <Route path="/academics" element={<Academics />} />
         <Route path="/more" element={<More />} />
       </Routes>
-    </Router>
+    </BrowserRouter>
   );
 };
 
