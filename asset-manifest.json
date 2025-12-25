@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/school-web-application/static/js/main.e3f337ff.js",
+    "static/media/academics-video1.mp4": "/school-web-application/static/media/academics-video1.5d0e436350443e9678fe.mp4",
+    "static/media/academics-program1.jpg": "/school-web-application/static/media/academics-program1.3eca6241a732dc18a49f.jpg",
+    "static/media/scl-branch2.jpg": "/school-web-application/static/media/scl-branch2.fce2bec5467004f2bbe9.jpg",
+    "static/media/scl-branch3.jpg": "/school-web-application/static/media/scl-branch3.caa34d6c0e326e38bb10.jpg",
+    "static/media/scl-branch1.jpg": "/school-web-application/static/media/scl-branch1.5c562aad171eac8c3b37.jpg",
+    "static/media/scl-branch4.jpg": "/school-web-application/static/media/scl-branch4.9898d0f71d18912447de.jpg",
+    "static/media/slide2.jpeg": "/school-web-application/static/media/slide2.253ac2b5d7dae7cf1b5b.jpeg",
+    "static/media/slide4.jpeg": "/school-web-application/static/media/slide4.253ac2b5d7dae7cf1b5b.jpeg",
+    "static/media/slide3.jpeg": "/school-web-application/static/media/slide3.29c984520693bc7a32b7.jpeg",
+    "static/media/slide1.webp": "/school-web-application/static/media/slide1.6391f779065ca354b0f9.webp",
+    "index.html": "/school-web-application/index.html",
+    "main.e3f337ff.js.map": "/school-web-application/static/js/main.e3f337ff.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e3f337ff.js"
+  ]
+}
